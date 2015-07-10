@@ -7,7 +7,7 @@
 // ========================================================================== */
 
 //
-// Mixin to create a full font style.
+// Mixin to create a full font style, including line-height.
 //
 
 @mixin bareFz($px, $lh: $bare-sp-m) {
